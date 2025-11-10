@@ -33,5 +33,4 @@ A tool to keep track of job applications — available as both a **CLI** and a *
 ## 🌐 Find me
 - [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
 - 📧 Email: mo.ahmed1990@gmail.com  
-  Test line for git practice
 ⚡ *“Building tools I wish I had when I started.”*
