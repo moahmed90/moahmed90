@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mo Ahmed
 
-💻 I enjoy working with Python and cloud tools to build useful, practical projects.  
-☁️ Right now I'm focused on **job tracking, cloud engineering, and automation**.  
-🚀 I like keeping things simple and making tools that people can actually use.  
+💻 I work with Python and cloud tools to build practical, reliable systems.
+☁️ Currently focused on cloud engineering, automation, and learning how production systems are deployed, monitored, and supported.
 
 ---
 
