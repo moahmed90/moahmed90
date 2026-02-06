@@ -4,8 +4,6 @@
 
 ☁️ Currently focused on cloud engineering, automation, and learning how production systems are deployed, monitored, and supported.
 
----
-
 ## 🛠️ Featured Project
 
 ### [Job Tracker](https://github.com/moahmed90/job-tracker)
@@ -22,15 +20,20 @@ A tool to keep track of job applications — available as both a **CLI** and a *
 ---
 
 ## 🧰 Tools I Use
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🌐 Find me
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- 📧 Email: mo.ahmed1990@gmail.com  
-⚡ *“Building tools I wish I had when I started.”*
+- [LinkedIn](https://linkedin.com/in/mohamed-ahmed-devops-uk)
+- 📧 Email: mo.ahmed1990@gmail.com
+⚡ Building practical systems and learning how production environments really work
