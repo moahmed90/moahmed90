@@ -1,16 +1,21 @@
 # 👋 Hi, I'm Mo Ahmed
 
-💻 I work with Python and cloud tools to build practical, reliable systems.
+💻 Junior DevOps Engineer based in the UK.  
+☁️ I work with AWS, Terraform, Docker, Kubernetes and GitHub Actions.  
+🔧 I like building things that are automated, repeatable and don't break at 2am.  
+🌱 Career changer - 10 years in the international charity sector before moving into tech.
 
-☁️ Currently focused on cloud engineering, automation, and learning how production systems are deployed, monitored, and supported.
+---
 
 ## 🛠️ Featured Project
 
-### [Job Tracker](https://github.com/moahmed90/job-tracker)
-A tool to keep track of job applications — available as both a **CLI** and a **web app**.  
-- Built with Python, Typer, Rich, SQLAlchemy, Flask, and HTMX  
-- Add, search, filter, update, and export applications  
-- [📸 See screenshot](https://github.com/moahmed90/job-tracker/blob/main/docs/screenshot.png)  
+### [Multi-Tenant Kubernetes Platform](https://github.com/moahmed90/multi-tenant-platform)
+
+A GitOps-driven platform that automates the creation of isolated customer environments on Kubernetes.
+
+- Provisions fully configured tenant environments in 5 minutes via a single command
+- Built with EKS, Terraform, ArgoCD, Istio, Prometheus and Grafana
+- Replaces a 2-hour manual process with zero human error
 
 ---
 
@@ -29,6 +34,6 @@ A tool to keep track of job applications — available as both a **CLI** and a *
 ---
 
 ## 🌐 Find me
+
 - [LinkedIn](https://linkedin.com/in/mohamed-ahmed-devops-uk)
-- 📧 Email: mo.ahmed1990@gmail.com
-⚡ Building practical systems and learning how production environments really work
+- 📧 mo.ahmed1990@gmail.com
